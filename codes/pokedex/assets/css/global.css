@@ -1,0 +1,43 @@
+* {
+    font-family: 'Roboto', sans-serif;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #ffce31cc;
+    background-image: url('../img/pokebola.svg');
+    background-repeat: repeat;
+    background-size: 145px;
+    background-position: center center;
+}
+
+a{
+    text-decoration: none;
+}
+.content {
+    width: 100vw;
+    height: 100%;
+    padding: 1rem;
+    background-color: #fff;
+    border-radius: 4rem ;
+}
+
+.pokedex{
+    display: grid;
+    align-content: center;
+    justify-content: center;
+}
+
+.pokedexImg{
+    width: 100%;
+    height: auto;
+}
+
+@media screen and (min-width: 992px){
+    .content{
+        max-width: 992px;
+        height: 100%;
+        margin: 1rem auto;
+        border-radius: 4rem;
+    }
+}
