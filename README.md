@@ -1,4 +1,4 @@
-<figure >
+<figure>
     <img alt="Banner" src="img/banner.png" style="width:100%;">
 <figure>
 
@@ -33,6 +33,9 @@ Repositório com resumos e códigos desenvolvidos no curso de formação JavaScr
 | Importação e Exportação com JavaScript | [Resumo](resumos/importacao-exportacao-com-javascript.md) |
 | Desafios Módulo 1 | [Desafios](resumos/desafios.md) |
 
+
+## Projetos
+ - [Pokedex](codes/pokedex/README.md)
 
 ## 🔎 *Referências e Documentação*📗
 
