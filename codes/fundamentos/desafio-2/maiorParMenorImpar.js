@@ -1,12 +1,12 @@
 
 /*
-Faça um programa qu ereceba N (quantidade de números) e seus respectivos valores, imprima o maior número par e o menor número impar.
+Faça um programa que receba N (quantidade de números) e seus respectivos valores, imprima o maior número par e o menor número ímpar.
 
-entradas - [5,3,4,1,10,8]
+Entradas: [5, 3, 4, 1, 10, 8]
 
-saida 
-maior par: 10
-menor par:  1
+Saída:
+- Maior par: 10
+- Menor ímpar: 1
 */
 const { gets, print } = require('./funcoesAuxiliaresMedia2');
 
