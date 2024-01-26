@@ -1,4 +1,6 @@
-![Banner JAvaScript](img/banner.png)
+<figure >
+    <img alt="Banner" src="img/banner.png" style="width:100%;">
+<figure>
 
 # DIO | Formação JavaScript
 
